@@ -32,4 +32,19 @@ B- Toolchain Manager
 
 ![image](https://user-images.githubusercontent.com/76178825/218271901-a3fec07f-eaf5-419d-baae-a954de2bf2e0.png)
 
+8- nrf52840-Dongle required x2
+
+![Screenshot 2023-02-11 at 19 24 03](https://user-images.githubusercontent.com/76178825/218272039-c04f4f55-8c81-44c6-b998-d05b29353bfb.png)
+
+9- J-Link EDU Mini required to upload the codes to nrf52840-Dongle
+
+
+![Screenshot 2023-02-11 at 19 24 58](https://user-images.githubusercontent.com/76178825/218272070-6dc412bf-7832-4f6c-9635-a218d45c3e86.png)
+
+
+
+#RESAULT:
+
+![Screenshot 2023-02-11 at 19 25 37](https://user-images.githubusercontent.com/76178825/218272100-c05338a2-643e-47c5-b57c-84874bab74c1.png)
+
 
